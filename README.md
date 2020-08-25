@@ -1,4 +1,4 @@
-# GA-with-seller
+# GA and TSP
 Evolution of a salesman: genetic algorithm java
 GA to find a solution to the traveling salesman problem (TSP).
 
